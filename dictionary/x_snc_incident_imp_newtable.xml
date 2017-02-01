@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NewTable" max_length="40" name="x_snc_incident_imp_newtable" type="collection"/>
+</database>

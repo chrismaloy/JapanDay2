@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>NewTable</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>NewTable</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">b6a86b50130322009ee3b5f12244b081</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>chris.maloy</sys_created_by>
+        <sys_created_on>2017-02-01 05:47:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3fb5992b132876408975b4622244b052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NewTable</sys_name>
+        <sys_package display_value="Incident Implementation" source="x_snc_incident_imp">6727b0ab13e476408975b4622244b06e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Incident Implementation">6727b0ab13e476408975b4622244b06e</sys_scope>
+        <sys_update_name>sys_wizard_answer_3fb5992b132876408975b4622244b052</sys_update_name>
+        <sys_updated_by>chris.maloy</sys_updated_by>
+        <sys_updated_on>2017-02-01 05:47:27</sys_updated_on>
+        <table/>
+        <target_url>x_snc_incident_imp_newtable.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
