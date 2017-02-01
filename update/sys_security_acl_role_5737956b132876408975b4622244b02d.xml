@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris.maloy</sys_created_by>
+        <sys_created_on>2017-02-01 05:53:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5737956b132876408975b4622244b02d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_incident_imp_newtable2.x_snc_incident_imp.newtable2_user</sys_name>
+        <sys_package display_value="Incident Implementation" source="x_snc_incident_imp">6727b0ab13e476408975b4622244b06e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Incident Implementation">6727b0ab13e476408975b4622244b06e</sys_scope>
+        <sys_security_acl display_value="x_snc_incident_imp_newtable2">9b37956b132876408975b4622244b02a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5737956b132876408975b4622244b02d</sys_update_name>
+        <sys_updated_by>chris.maloy</sys_updated_by>
+        <sys_updated_on>2017-02-01 05:53:58</sys_updated_on>
+        <sys_user_role display_value="x_snc_incident_imp.newtable2_user" name="x_snc_incident_imp.newtable2_user">4b37956b132876408975b4622244b018</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
